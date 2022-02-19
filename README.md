@@ -26,3 +26,10 @@ This repository contains different learning notebooks for the ML engineer traini
 5. Decision Trees
 6. Neuronal Networks
 7. Apply data wrangling
+
+## Week 3 Goals
+
+1. Clustering
+2. PCA
+3. Anomaly detection
+4. Recommender systems
