@@ -33,3 +33,20 @@ This repository contains different learning notebooks for the ML engineer traini
 2. PCA
 3. Anomaly detection
 4. Recommender systems
+
+## Week 4 Goals
+
+1. AutoML
+2. Zero/One Shot Learning
+
+## Week 5 Goals 
+
+1. Deep Learning (Neural Networks with Keras)
+
+## Week 6 Goals
+
+1. Object detection 
+
+## Week 7 Goals
+
+1. Semantic Segmentation
