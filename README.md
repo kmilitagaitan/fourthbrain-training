@@ -50,3 +50,7 @@ This repository contains different learning notebooks for the ML engineer traini
 ## Week 7 Goals
 
 1. Semantic Segmentation
+
+## Week 9 Goals
+
+1. GANs: pix2pix and cycleGAN
